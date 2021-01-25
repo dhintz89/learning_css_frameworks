@@ -1,3 +1,20 @@
+:root {
+  --pm-primary-color: #309AFD;
+  --pm-secondary-color: #00004b;
+  --pm-app-surface-color: #F1F2F3;
+  --pm-app-ground-color: #fff;
+  --pm-mark-border-radius: 0px;
+  --pm-button-border-radius: 0px;
+  --pm-input-border-radius: 0px;
+  --pm-input-border-width: 1px;
+  --pm-pre-code-border-radius: 0px;
+  --pm-app-text-color: #848586;
+  --pm-app-base-font-size: 19px;
+  --pm-app-line-height: 1.2rem;
+  --pm-app-container-padding: 1rem 2rem;
+  --pm-app-container-max-width: 900px;
+}
+
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
