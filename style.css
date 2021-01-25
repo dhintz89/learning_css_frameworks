@@ -24,3 +24,11 @@ body {
   margin: 0;
 }
 
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+}
